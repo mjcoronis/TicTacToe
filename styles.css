@@ -1,0 +1,45 @@
+* {
+    background-color: #F6F1F1;
+}
+h1 {
+    color: #146C94;
+    font-size: 45px;
+
+}
+#box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8, #box9 {
+    width: 80px;
+    height: 52px;
+    margin: auto;
+    border: 1px solid #19A7CE;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+#reset {
+    box-sizing: border-box;
+    width: 80px;
+    height: 52px;
+    margin: auto;
+    border-radius: 4px;
+    background-color: #AFD3E2;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+#main {
+    text-align: center;
+}
+
+input {
+    background-color: white;
+}
+#print {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#146C94;
+    font-size: 20px;
+}
+#instructions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#19A7CE;
+    font-size: 17px;
+}
